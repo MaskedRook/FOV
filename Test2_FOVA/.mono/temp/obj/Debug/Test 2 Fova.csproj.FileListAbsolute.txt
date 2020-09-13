@@ -1,0 +1,6 @@
+C:\Users\pixir\Documents\GodotApps\Test2_FOVA\.mono\temp\bin\Debug\Test 2 Fova.dll
+C:\Users\pixir\Documents\GodotApps\Test2_FOVA\.mono\temp\bin\Debug\Test 2 Fova.pdb
+C:\Users\pixir\Documents\GodotApps\Test2_FOVA\.mono\temp\obj\Debug\Test 2 Fova.csprojAssemblyReference.cache
+C:\Users\pixir\Documents\GodotApps\Test2_FOVA\.mono\temp\obj\Debug\Test 2 Fova.csproj.CoreCompileInputs.cache
+C:\Users\pixir\Documents\GodotApps\Test2_FOVA\.mono\temp\obj\Debug\Test 2 Fova.dll
+C:\Users\pixir\Documents\GodotApps\Test2_FOVA\.mono\temp\obj\Debug\Test 2 Fova.pdb
